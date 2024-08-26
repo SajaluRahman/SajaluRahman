@@ -1,7 +1,7 @@
 <h2 align="left">Hi There, I'm Sajalu Rahman<br>MERN Stack Developer</h2>
 
 # 💫 About Me
-MERN Stack Developer and Python Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
+MERN Stack Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/___zcl3_/)
